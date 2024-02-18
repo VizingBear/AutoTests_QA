@@ -9,3 +9,9 @@ ____________________________________________________
 - selenium | latest version
 - pytest | latest version
 - webdriver_manager | latest version
+
+## Требования
+Установлены описанные выше пакеты.
+Запуск всех тестов выполянется командой pytest
+
+
